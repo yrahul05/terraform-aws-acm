@@ -135,8 +135,6 @@ module "acm" {
 | <a name="output_validation_route53_record_fqdns"></a> [validation\_route53\_record\_fqdns](#output\_validation\_route53\_record\_fqdns) | List of FQDNs built using the zone domain and name. |
 
 ### 💙 Maintained by Rahul Yadav
-
-CEO & CTO at [PrimeOps Technologies](https://primeops.co.in/)  
 Helping teams build stable, scalable and consistent cloud and DevOps infrastructure.
 
 <!-- END_TF_DOCS -->
